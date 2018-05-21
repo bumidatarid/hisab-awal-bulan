@@ -39,7 +39,7 @@ while sekarang <= selesai:
     ketinggian = float(bulan.alt) / 0.01745329252
 
     if ketinggian > 0 and ketinggiankemarin <= 0:
-        if ketinggian > 3:
+        if ketinggian > 2:
             print("%s-%s-%s: Masuk bulan baru. Ketinggian bulan: %s°" % (sekarang.year, sekarang.month, sekarang.day, ketinggian))
         else:
             print("%s-%s-%s: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: %s°" % (sekarang.year, sekarang.month, sekarang.day, ketinggian))
