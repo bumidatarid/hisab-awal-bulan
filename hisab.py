@@ -8,17 +8,17 @@ Seharusnya sudah mengakomodasi algoritma Muhammadiyah.
 
 Script memperhitungkan situasi jika ada kemungkinan rukyat
 tidak berhasil mengamati hilal, yaitu jika ketinggian bulan
-di bawah 3° saat matahari terbenam.
+di bawah 2° saat matahari terbenam.
 
 Script hanya menghitung untuk lokasi Jakarta. Untuk
 penentuan bulan baru, seharusnya dilakukan untuk lokasi
 lain di Indonesia.
 '''
 import ephem
-from datetime import datetime, timedelta
+from datetime import date, timedelta
 
-sekarang = datetime(2000, 1, 1, 5, 0, 0)
-selesai = datetime(2100, 12, 1, 5, 0, 0)
+sekarang = date(2000, 1, 1)
+selesai = date(2100, 12, 1)
 
 bulan = ephem.Moon()
 matahari = ephem.Sun()
@@ -40,9 +40,9 @@ while sekarang <= selesai:
 
     if ketinggian > 0 and ketinggiankemarin <= 0:
         if ketinggian > 2:
-            print("%s-%s-%s: Masuk bulan baru. Ketinggian bulan: %s°" % (sekarang.year, sekarang.month, sekarang.day, ketinggian))
+            print(sekarang, "Bulan baru.", ketinggian)
         else:
-            print("%s-%s-%s: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: %s°" % (sekarang.year, sekarang.month, sekarang.day, ketinggian))
+            print(sekarang, "Muhammadiyah bulan baru, pemerintah tergantung rukyat.", ketinggian)
 
     ketinggiankemarin = ketinggian
     sekarang += timedelta(days = 1)

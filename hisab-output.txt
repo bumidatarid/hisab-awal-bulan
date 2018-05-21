@@ -1,259 +1,1248 @@
-2000-1-7: Masuk bulan baru. Ketinggian bulan: 5.629159741716134°
-2000-2-6: Masuk bulan baru. Ketinggian bulan: 8.793506556336837°
-2000-3-6: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.8009527896902897°
-2000-4-5: Masuk bulan baru. Ketinggian bulan: 8.559783459355284°
-2000-5-4: Masuk bulan baru. Ketinggian bulan: 3.612702202966862°
-2000-6-3: Masuk bulan baru. Ketinggian bulan: 11.643089652587225°
-2000-7-2: Masuk bulan baru. Ketinggian bulan: 7.425084986318398°
-2000-7-31: Masuk bulan baru. Ketinggian bulan: 3.50506653249745°
-2000-8-30: Masuk bulan baru. Ketinggian bulan: 12.757252308110887°
-2000-9-28: Masuk bulan baru. Ketinggian bulan: 7.416767523456642°
-2000-10-27: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.0336997187282946°
-2000-11-26: Masuk bulan baru. Ketinggian bulan: 4.136949530728079°
-2000-12-26: Masuk bulan baru. Ketinggian bulan: 6.289770515595744°
-2001-1-25: Masuk bulan baru. Ketinggian bulan: 8.564378469119394°
-2001-2-23: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.5817783235555494°
-2001-3-25: Masuk bulan baru. Ketinggian bulan: 4.844049560306407°
-2001-4-24: Masuk bulan baru. Ketinggian bulan: 8.9224963863594°
-2001-5-23: Masuk bulan baru. Ketinggian bulan: 3.2217859307759724°
-2001-6-22: Masuk bulan baru. Ketinggian bulan: 11.003148738683299°
-2001-7-21: Masuk bulan baru. Ketinggian bulan: 7.334252008093986°
-2001-8-19: Masuk bulan baru. Ketinggian bulan: 3.921649588372106°
-2001-9-17: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.2801082189758549°
-2001-10-17: Masuk bulan baru. Ketinggian bulan: 7.75476967981738°
-2001-11-15: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.1049894980249537°
-2001-12-15: Masuk bulan baru. Ketinggian bulan: 5.458421234165649°
-2002-1-14: Masuk bulan baru. Ketinggian bulan: 9.052110324917372°
-2002-2-12: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.8958957352756534°
-2002-3-14: Masuk bulan baru. Ketinggian bulan: 4.406410738767962°
-2002-4-13: Masuk bulan baru. Ketinggian bulan: 6.442802184609851°
-2002-5-13: Masuk bulan baru. Ketinggian bulan: 9.485222011696584°
-2002-6-11: Masuk bulan baru. Ketinggian bulan: 3.6916860836418097°
-2002-7-11: Masuk bulan baru. Ketinggian bulan: 11.52968802179787°
-2002-8-9: Masuk bulan baru. Ketinggian bulan: 7.901538492249429°
-2002-9-7: Masuk bulan baru. Ketinggian bulan: 4.051973439716934°
-2002-10-7: Masuk bulan baru. Ketinggian bulan: 12.565651841514311°
-2002-11-5: Masuk bulan baru. Ketinggian bulan: 6.694713648464266°
-2002-12-4: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.47947943981589597°
-2003-1-3: Masuk bulan baru. Ketinggian bulan: 6.7048082411706895°
-2003-2-1: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.6360201718769394°
-2003-3-3: Masuk bulan baru. Ketinggian bulan: 4.299077304169322°
-2003-4-2: Masuk bulan baru. Ketinggian bulan: 6.223014381082372°
-2003-5-2: Masuk bulan baru. Ketinggian bulan: 7.888830071525016°
-2003-5-31: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.1236279103310944°
-2003-6-30: Masuk bulan baru. Ketinggian bulan: 5.9102288562504155°
-2003-7-29: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.2273352615324096°
-2003-8-28: Masuk bulan baru. Ketinggian bulan: 8.59451411751104°
-2003-9-26: Masuk bulan baru. Ketinggian bulan: 3.5247722685831073°
-2003-10-26: Masuk bulan baru. Ketinggian bulan: 10.806382941526918°
-2003-11-24: Masuk bulan baru. Ketinggian bulan: 5.13823946823624°
-2003-12-24: Masuk bulan baru. Ketinggian bulan: 13.445136881119915°
-2004-1-22: Masuk bulan baru. Ketinggian bulan: 7.436044024841648°
-2004-2-20: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.5885172656670972°
-2004-3-21: Masuk bulan baru. Ketinggian bulan: 5.130817187042576°
-2004-4-20: Masuk bulan baru. Ketinggian bulan: 7.351083301756135°
-2004-5-19: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.6042070183529745°
-2004-6-18: Masuk bulan baru. Ketinggian bulan: 4.29859065319096°
-2004-7-18: Masuk bulan baru. Ketinggian bulan: 9.541536067629508°
-2004-8-16: Masuk bulan baru. Ketinggian bulan: 3.8828908261533486°
-2004-9-15: Masuk bulan baru. Ketinggian bulan: 8.905805965348883°
-2004-10-14: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.6610252654856317°
-2004-11-13: Masuk bulan baru. Ketinggian bulan: 9.269721859420564°
-2004-12-12: Masuk bulan baru. Ketinggian bulan: 4.1212289965797°
-2005-1-11: Masuk bulan baru. Ketinggian bulan: 12.839931748013623°
-2005-2-9: Masuk bulan baru. Ketinggian bulan: 6.80571190643943°
-2005-3-10: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.8445031585544388°
-2005-4-9: Masuk bulan baru. Ketinggian bulan: 4.768993892177849°
-2005-5-9: Masuk bulan baru. Ketinggian bulan: 8.88490814780965°
-2005-6-7: Masuk bulan baru. Ketinggian bulan: 3.4134482959619006°
-2005-7-7: Masuk bulan baru. Ketinggian bulan: 8.761464431393119°
-2005-8-5: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.733629536032397°
-2005-9-4: Masuk bulan baru. Ketinggian bulan: 6.069181445501259°
-2005-10-4: Masuk bulan baru. Ketinggian bulan: 9.217364190564355°
-2005-11-2: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.5197654275060026°
-2005-12-2: Masuk bulan baru. Ketinggian bulan: 8.951153298795742°
-2005-12-31: Masuk bulan baru. Ketinggian bulan: 3.7600955508211427°
-2006-1-30: Masuk bulan baru. Ketinggian bulan: 11.0230749618131°
-2006-2-28: Masuk bulan baru. Ketinggian bulan: 4.626342403154835°
-2006-3-30: Masuk bulan baru. Ketinggian bulan: 9.749598143899407°
-2006-4-28: Masuk bulan baru. Ketinggian bulan: 4.39841770989178°
-2006-5-27: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.0894902524130204°
-2006-6-26: Masuk bulan baru. Ketinggian bulan: 7.208260631117048°
-2006-7-25: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.9757581490325913°
-2006-8-24: Masuk bulan baru. Ketinggian bulan: 5.682768615850921°
-2006-9-23: Masuk bulan baru. Ketinggian bulan: 7.833457727923902°
-2006-10-22: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.38869656743234826°
-2006-11-21: Masuk bulan baru. Ketinggian bulan: 3.920178109492796°
-2006-12-21: Masuk bulan baru. Ketinggian bulan: 9.568108064821711°
-2007-1-19: Masuk bulan baru. Ketinggian bulan: 3.23657713231041°
-2007-2-18: Masuk bulan baru. Ketinggian bulan: 8.16013884573538°
-2007-3-19: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.9056795543748417°
-2007-4-18: Masuk bulan baru. Ketinggian bulan: 8.465727485616283°
-2007-5-17: Masuk bulan baru. Ketinggian bulan: 4.938886310044902°
-2007-6-15: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.8678095705218292°
-2007-7-15: Masuk bulan baru. Ketinggian bulan: 10.357330446998596°
-2007-8-13: Masuk bulan baru. Ketinggian bulan: 4.321800062877411°
-2007-9-12: Masuk bulan baru. Ketinggian bulan: 7.623463561892542°
-2007-10-11: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.25021853743560935°
-2007-11-10: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.872073415083286°
-2007-12-10: Masuk bulan baru. Ketinggian bulan: 6.4817077958957645°
-2008-1-9: Masuk bulan baru. Ketinggian bulan: 9.960078107135484°
-2008-2-7: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.1716567256077943°
-2008-3-8: Masuk bulan baru. Ketinggian bulan: 5.513893469283373°
-2008-4-6: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.1757674611105156°
-2008-5-6: Masuk bulan baru. Ketinggian bulan: 8.51399557870696°
-2008-6-4: Masuk bulan baru. Ketinggian bulan: 6.1699540565153°
-2008-7-3: Masuk bulan baru. Ketinggian bulan: 3.231147985693914°
-2008-8-2: Masuk bulan baru. Ketinggian bulan: 11.582028615181155°
-2008-8-31: Masuk bulan baru. Ketinggian bulan: 5.160751771740529°
-2008-9-30: Masuk bulan baru. Ketinggian bulan: 9.414669572665165°
-2008-10-29: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.6479921973322322°
-2008-11-28: Masuk bulan baru. Ketinggian bulan: 6.28835581266391°
-2008-12-28: Masuk bulan baru. Ketinggian bulan: 8.76184862953393°
-2009-1-26: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.19937071391193859°
-2009-2-25: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.3292471267556636°
-2009-3-27: Masuk bulan baru. Ketinggian bulan: 4.531975228921776°
-2009-4-25: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.18370551496800658°
-2009-5-25: Masuk bulan baru. Ketinggian bulan: 9.623126092359632°
-2009-6-23: Masuk bulan baru. Ketinggian bulan: 7.017919053761866°
-2009-7-22: Masuk bulan baru. Ketinggian bulan: 3.1839313148485924°
-2009-8-21: Masuk bulan baru. Ketinggian bulan: 11.22340270262163°
-2009-9-19: Masuk bulan baru. Ketinggian bulan: 5.413698863027843°
-2009-10-18: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.059978966020834926°
-2009-11-17: Masuk bulan baru. Ketinggian bulan: 5.470174709066733°
-2009-12-17: Masuk bulan baru. Ketinggian bulan: 9.06779500057261°
-2010-1-15: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.2967154770971432°
-2010-2-14: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.623572418918896°
-2010-3-16: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.8187777769045825°
-2010-4-15: Masuk bulan baru. Ketinggian bulan: 5.892245821939477°
-2010-5-14: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.8876075141612814°
-2010-6-13: Masuk bulan baru. Ketinggian bulan: 10.906013203402278°
-2010-7-12: Masuk bulan baru. Ketinggian bulan: 6.9240543253196245°
-2010-8-10: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.208797800210322°
-2010-9-9: Masuk bulan baru. Ketinggian bulan: 10.560678838967556°
-2010-10-8: Masuk bulan baru. Ketinggian bulan: 5.824234640166119°
-2010-11-6: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.0588929782035106°
-2010-12-6: Masuk bulan baru. Ketinggian bulan: 7.280481343853235°
-2011-1-5: Masuk bulan baru. Ketinggian bulan: 10.082399964980844°
-2011-2-3: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.8638534046381393°
-2011-3-5: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.824784074505943°
-2011-4-4: Masuk bulan baru. Ketinggian bulan: 4.334702290219523°
-2011-5-4: Masuk bulan baru. Ketinggian bulan: 9.307085555501352°
-2011-6-2: Masuk bulan baru. Ketinggian bulan: 4.7353334392876665°
-2011-7-2: Masuk bulan baru. Ketinggian bulan: 11.872985282312644°
-2011-7-31: Masuk bulan baru. Ketinggian bulan: 6.499640457561575°
-2011-8-29: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.493574861439878°
-2011-9-28: Masuk bulan baru. Ketinggian bulan: 10.325428340932863°
-2011-10-27: Masuk bulan baru. Ketinggian bulan: 6.144428785813399°
-2011-11-25: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.1376130428217675°
-2011-12-25: Masuk bulan baru. Ketinggian bulan: 7.083082046651338°
-2012-1-24: Masuk bulan baru. Ketinggian bulan: 9.875150681222173°
-2012-2-22: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.6539221966635747°
-2012-3-23: Masuk bulan baru. Ketinggian bulan: 4.560389242755759°
-2012-4-22: Masuk bulan baru. Ketinggian bulan: 8.656800320099476°
-2012-5-21: Masuk bulan baru. Ketinggian bulan: 3.1724811430353377°
-2012-6-20: Masuk bulan baru. Ketinggian bulan: 7.839546841568949°
-2012-7-19: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.3489918162639312°
-2012-8-18: Masuk bulan baru. Ketinggian bulan: 6.759345594145771°
-2012-9-16: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.7233462670997686°
-2012-10-16: Masuk bulan baru. Ketinggian bulan: 10.39139943057851°
-2012-11-14: Masuk bulan baru. Ketinggian bulan: 5.712673745358078°
-2012-12-14: Masuk bulan baru. Ketinggian bulan: 13.398870033456046°
-2013-1-12: Masuk bulan baru. Ketinggian bulan: 5.486504837598535°
-2013-2-11: Masuk bulan baru. Ketinggian bulan: 9.79799259548973°
-2013-3-12: Masuk bulan baru. Ketinggian bulan: 3.3378223070376496°
-2013-4-11: Masuk bulan baru. Ketinggian bulan: 8.486405883328429°
-2013-5-10: Masuk bulan baru. Ketinggian bulan: 3.1207900579534376°
-2013-6-9: Masuk bulan baru. Ketinggian bulan: 7.3555596369834175°
-2013-7-8: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.31330029697979095°
-2013-8-7: Masuk bulan baru. Ketinggian bulan: 3.499772709003884°
-2013-9-6: Masuk bulan baru. Ketinggian bulan: 8.270084400804718°
-2013-10-5: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.9469365572546136°
-2013-11-4: Masuk bulan baru. Ketinggian bulan: 10.420741069479142°
-2013-12-3: Masuk bulan baru. Ketinggian bulan: 4.439137163289148°
-2014-1-2: Masuk bulan baru. Ketinggian bulan: 11.009619489148218°
-2014-1-31: Masuk bulan baru. Ketinggian bulan: 3.8864779561280627°
-2014-3-2: Masuk bulan baru. Ketinggian bulan: 10.435652226210879°
-2014-3-31: Masuk bulan baru. Ketinggian bulan: 5.571965445153926°
-2014-4-29: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.1594478769377579°
-2014-5-29: Masuk bulan baru. Ketinggian bulan: 6.842865574203239°
-2014-6-27: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.28182254309666965°
-2014-7-27: Masuk bulan baru. Ketinggian bulan: 3.3128041778816204°
-2014-8-26: Masuk bulan baru. Ketinggian bulan: 6.608280165838975°
-2014-9-24: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.31184495975848053°
-2014-10-24: Masuk bulan baru. Ketinggian bulan: 4.836825781485495°
-2014-11-23: Masuk bulan baru. Ketinggian bulan: 10.283440606783993°
-2014-12-22: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.960412947373828°
-2015-1-21: Masuk bulan baru. Ketinggian bulan: 8.853860669163812°
-2015-2-19: Masuk bulan baru. Ketinggian bulan: 3.071901271421938°
-2015-3-21: Masuk bulan baru. Ketinggian bulan: 11.396180021639358°
-2015-4-19: Masuk bulan baru. Ketinggian bulan: 7.445679714213211°
-2015-5-18: Masuk bulan baru. Ketinggian bulan: 3.067716926781672°
-2015-6-17: Masuk bulan baru. Ketinggian bulan: 9.485362030574567°
-2015-7-16: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.758912548462175°
-2015-8-15: Masuk bulan baru. Ketinggian bulan: 6.793391952724059°
-2015-9-13: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.28054465739164675°
-2015-10-13: Masuk bulan baru. Ketinggian bulan: 3.641943950350884°
-2015-11-12: Masuk bulan baru. Ketinggian bulan: 6.875505340699331°
-2015-12-12: Masuk bulan baru. Ketinggian bulan: 10.176214320777957°
-2016-1-10: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.2050875133871366°
-2016-2-9: Masuk bulan baru. Ketinggian bulan: 7.887269373299673°
-2016-3-9: Masuk bulan baru. Ketinggian bulan: 3.133634228687605°
-2016-4-8: Masuk bulan baru. Ketinggian bulan: 12.117329323453532°
-2016-5-7: Masuk bulan baru. Ketinggian bulan: 8.334741532808788°
-2016-6-5: Masuk bulan baru. Ketinggian bulan: 3.762914284514233°
-2016-7-5: Masuk bulan baru. Ketinggian bulan: 11.184260596035708°
-2016-8-3: Masuk bulan baru. Ketinggian bulan: 5.115318207155398°
-2016-9-2: Masuk bulan baru. Ketinggian bulan: 10.461422529949253°
-2016-10-1: Masuk bulan baru. Ketinggian bulan: 3.8683664288833635°
-2016-10-31: Masuk bulan baru. Ketinggian bulan: 6.871961753180576°
-2016-11-30: Masuk bulan baru. Ketinggian bulan: 8.761513096490955°
-2016-12-30: Masuk bulan baru. Ketinggian bulan: 10.697157971415015°
-2017-1-28: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.890572555563382°
-2017-2-27: Masuk bulan baru. Ketinggian bulan: 8.383229899500197°
-2017-3-28: Masuk bulan baru. Ketinggian bulan: 3.863412834187828°
-2017-4-27: Masuk bulan baru. Ketinggian bulan: 12.296100987241573°
-2017-5-26: Masuk bulan baru. Ketinggian bulan: 8.162620765725025°
-2017-6-24: Masuk bulan baru. Ketinggian bulan: 3.526504788754758°
-2017-7-24: Masuk bulan baru. Ketinggian bulan: 12.291675024659419°
-2017-8-22: Masuk bulan baru. Ketinggian bulan: 7.18043358666486°
-2017-9-20: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.983601340633856°
-2017-10-20: Masuk bulan baru. Ketinggian bulan: 6.793836341906932°
-2017-11-19: Masuk bulan baru. Ketinggian bulan: 9.406481883397639°
-2017-12-18: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.3692843160375888°
-2018-1-17: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.9811802520165058°
-2018-2-16: Masuk bulan baru. Ketinggian bulan: 5.11055841907756°
-2018-3-18: Masuk bulan baru. Ketinggian bulan: 9.903238126636468°
-2018-4-16: Masuk bulan baru. Ketinggian bulan: 4.801188842604246°
-2018-5-16: Masuk bulan baru. Ketinggian bulan: 11.920494370631806°
-2018-6-14: Masuk bulan baru. Ketinggian bulan: 7.390227115889351°
-2018-7-13: Masuk bulan baru. Ketinggian bulan: 3.074254058147588°
-2018-8-12: Masuk bulan baru. Ketinggian bulan: 13.028501318166015°
-2018-9-10: Masuk bulan baru. Ketinggian bulan: 8.58667562166483°
-2018-10-9: Masuk bulan baru. Ketinggian bulan: 3.3802443985290496°
-2018-11-8: Masuk bulan baru. Ketinggian bulan: 8.463844060952658°
-2018-12-7: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.37217260560242216°
-2019-1-6: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 2.6404064184853113°
-2019-2-5: Masuk bulan baru. Ketinggian bulan: 5.150665716770568°
-2019-3-7: Masuk bulan baru. Ketinggian bulan: 8.098893393221722°
-2019-4-5: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.7793760164084937°
-2019-5-5: Masuk bulan baru. Ketinggian bulan: 5.58181841991846°
-2019-6-4: Masuk bulan baru. Ketinggian bulan: 11.543834197342568°
-2019-7-3: Masuk bulan baru. Ketinggian bulan: 6.990004924397761°
-2019-8-1: Masuk bulan baru. Ketinggian bulan: 3.139253980270626°
-2019-8-31: Masuk bulan baru. Ketinggian bulan: 13.367547639696115°
-2019-9-29: Masuk bulan baru. Ketinggian bulan: 8.91799699924367°
-2019-10-28: Masuk bulan baru. Ketinggian bulan: 3.303854709078229°
-2019-11-27: Masuk bulan baru. Ketinggian bulan: 8.972001597463493°
-2019-12-26: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.443019188585783°
-2020-1-25: Masuk bulan baru. Ketinggian bulan: 5.397297017509757°
-2020-2-24: Masuk bulan baru. Ketinggian bulan: 8.474759557019949°
-2020-3-24: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.615767586021244°
-2020-4-23: Masuk bulan baru. Ketinggian bulan: 3.6451716416205278°
-2020-5-23: Masuk bulan baru. Ketinggian bulan: 6.577748793362294°
-2020-6-21: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.628426388902085°
-2020-7-21: Masuk bulan baru. Ketinggian bulan: 7.818987118393631°
-2020-8-19: Masuk bulan baru. Ketinggian bulan: 3.9048396390511133°
-2020-9-17: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 0.03621293927272262°
-2020-10-17: Masuk bulan baru. Ketinggian bulan: 7.961628789019714°
-2020-11-15: Muhammadiyah masuk bulan baru, pemerintah tergantung rukyat. Ketinggian bulan: 1.9895549177125607°
+2000-01-07 Bulan baru. 5.629159741716134
+2000-02-06 Bulan baru. 8.793506556336837
+2000-03-06 Bulan baru. 2.8009527896902897
+2000-04-05 Bulan baru. 8.55978431312893
+2000-05-04 Bulan baru. 3.612701776080039
+2000-06-03 Bulan baru. 11.643089652587225
+2000-07-02 Bulan baru. 7.425084986318398
+2000-07-31 Bulan baru. 3.5050667459408618
+2000-08-30 Bulan baru. 12.757252308110887
+2000-09-28 Bulan baru. 7.416767523456642
+2000-10-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.0336997187282946
+2000-11-26 Bulan baru. 4.136949530728079
+2000-12-26 Bulan baru. 6.289770515595744
+2001-01-25 Bulan baru. 8.564378469119394
+2001-02-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.5817783235555494
+2001-03-25 Bulan baru. 4.844049560306407
+2001-04-24 Bulan baru. 8.9224963863594
+2001-05-23 Bulan baru. 3.2217859307759724
+2001-06-22 Bulan baru. 11.003148738683299
+2001-07-21 Bulan baru. 7.334252008093986
+2001-08-19 Bulan baru. 3.921649588372106
+2001-09-17 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.28010829901713424
+2001-10-17 Bulan baru. 7.75476967981738
+2001-11-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1049896047466594
+2001-12-15 Bulan baru. 5.458421234165649
+2002-01-14 Bulan baru. 9.052110324917372
+2002-02-12 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8958957352756534
+2002-03-14 Bulan baru. 4.406410738767962
+2002-04-13 Bulan baru. 6.442802184609851
+2002-05-13 Bulan baru. 9.485222011696584
+2002-06-11 Bulan baru. 3.6916860836418097
+2002-07-11 Bulan baru. 11.52968802179787
+2002-08-09 Bulan baru. 7.901538492249429
+2002-09-07 Bulan baru. 4.051973439716934
+2002-10-07 Bulan baru. 12.565651841514311
+2002-11-05 Bulan baru. 6.694713648464266
+2002-12-04 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.47947949317674887
+2003-01-03 Bulan baru. 6.7048082411706895
+2003-02-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6360201718769394
+2003-03-03 Bulan baru. 4.299077304169322
+2003-04-02 Bulan baru. 6.223014381082372
+2003-05-02 Bulan baru. 7.888830071525016
+2003-05-31 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1236280170528001
+2003-06-30 Bulan baru. 5.9102288562504155
+2003-07-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.2273352615324096
+2003-08-28 Bulan baru. 8.59451411751104
+2003-09-26 Bulan baru. 3.5247722685831073
+2003-10-26 Bulan baru. 10.806382941526918
+2003-11-24 Bulan baru. 5.13823946823624
+2003-12-24 Bulan baru. 13.445136881119915
+2004-01-22 Bulan baru. 7.436044024841648
+2004-02-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.5885172656670972
+2004-03-21 Bulan baru. 5.130817187042576
+2004-04-20 Bulan baru. 7.351082447982489
+2004-05-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6042070183529745
+2004-06-18 Bulan baru. 4.29859065319096
+2004-07-18 Bulan baru. 9.541536067629508
+2004-08-16 Bulan baru. 3.8828908261533486
+2004-09-15 Bulan baru. 8.905805965348883
+2004-10-14 Bulan baru. 2.6610252654856317
+2004-11-13 Bulan baru. 9.269721859420564
+2004-12-12 Bulan baru. 4.1212289965797
+2005-01-11 Bulan baru. 12.839931748013623
+2005-02-09 Bulan baru. 6.80571190643943
+2005-03-10 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8445031585544388
+2005-04-09 Bulan baru. 4.768993892177849
+2005-05-09 Bulan baru. 8.88490814780965
+2005-06-07 Bulan baru. 3.4134482959619006
+2005-07-07 Bulan baru. 8.761464431393119
+2005-08-05 Bulan baru. 2.733629536032397
+2005-09-04 Bulan baru. 6.069181445501259
+2005-10-04 Bulan baru. 9.217364190564355
+2005-11-02 Bulan baru. 2.5197654275060026
+2005-12-02 Bulan baru. 8.951154152569389
+2005-12-31 Bulan baru. 3.7600955508211427
+2006-01-30 Bulan baru. 11.0230749618131
+2006-02-28 Bulan baru. 4.626342403154835
+2006-03-30 Bulan baru. 9.749598143899407
+2006-04-28 Bulan baru. 4.3984172830049575
+2006-05-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.08949026575323363
+2006-06-26 Bulan baru. 7.208259777343401
+2006-07-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9757581490325913
+2006-08-24 Bulan baru. 5.682768615850921
+2006-09-23 Bulan baru. 7.833457727923902
+2006-10-22 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.38869656743234826
+2006-11-21 Bulan baru. 3.920178109492796
+2006-12-21 Bulan baru. 9.568108918595357
+2007-01-19 Bulan baru. 3.23657713231041
+2007-02-18 Bulan baru. 8.16013884573538
+2007-03-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9056795543748417
+2007-04-18 Bulan baru. 8.465727485616283
+2007-05-17 Bulan baru. 4.938886310044902
+2007-06-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8678095705218292
+2007-07-15 Bulan baru. 10.357330446998596
+2007-08-13 Bulan baru. 4.321800062877411
+2007-09-12 Bulan baru. 7.623463561892542
+2007-10-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.25021853743560935
+2007-11-10 Bulan baru. 2.872073415083286
+2007-12-10 Bulan baru. 6.481708222782587
+2008-01-09 Bulan baru. 9.960078107135484
+2008-02-07 Bulan baru. 2.1716567256077943
+2008-03-08 Bulan baru. 5.513893469283373
+2008-04-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.17576744777030237
+2008-05-06 Bulan baru. 8.51399557870696
+2008-06-04 Bulan baru. 6.1699540565153
+2008-07-03 Bulan baru. 3.231147985693914
+2008-08-02 Bulan baru. 11.582028615181155
+2008-08-31 Bulan baru. 5.160748356645944
+2008-09-30 Bulan baru. 9.414669572665165
+2008-10-29 Bulan baru. 2.6479921973322322
+2008-11-28 Bulan baru. 6.28835581266391
+2008-12-28 Bulan baru. 8.76184862953393
+2009-01-26 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.19937071391193859
+2009-02-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3292471267556636
+2009-03-27 Bulan baru. 4.531975228921776
+2009-04-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.18370547494736691
+2009-05-25 Bulan baru. 9.623126092359632
+2009-06-23 Bulan baru. 7.017919053761866
+2009-07-22 Bulan baru. 3.1839311014051805
+2009-08-21 Bulan baru. 11.22340270262163
+2009-09-19 Bulan baru. 5.413699289914667
+2009-10-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.059978966020834926
+2009-11-17 Bulan baru. 5.470174709066733
+2009-12-17 Bulan baru. 9.06779500057261
+2010-01-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.2967154770971432
+2010-02-14 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.623572418918896
+2010-03-16 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8187777769045825
+2010-04-15 Bulan baru. 5.892245821939477
+2010-05-14 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8876075141612814
+2010-06-13 Bulan baru. 10.906013203402278
+2010-07-12 Bulan baru. 6.9240543253196245
+2010-08-10 Bulan baru. 2.208797800210322
+2010-09-09 Bulan baru. 10.560678838967556
+2010-10-08 Bulan baru. 5.824234640166119
+2010-11-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.0588930849252163
+2010-12-06 Bulan baru. 7.280481343853235
+2011-01-05 Bulan baru. 10.082399964980844
+2011-02-03 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8638534046381393
+2011-03-05 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.824784074505943
+2011-04-04 Bulan baru. 4.334702717106347
+2011-05-04 Bulan baru. 9.307085555501352
+2011-06-02 Bulan baru. 4.7353334392876665
+2011-07-02 Bulan baru. 11.872985282312644
+2011-07-31 Bulan baru. 6.499640457561575
+2011-08-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.493574861439878
+2011-09-28 Bulan baru. 10.325428340932863
+2011-10-27 Bulan baru. 6.144428785813399
+2011-11-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1376129361000615
+2011-12-25 Bulan baru. 7.083082046651338
+2012-01-24 Bulan baru. 9.875150681222173
+2012-02-22 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.6539221966635747
+2012-03-23 Bulan baru. 4.560389242755759
+2012-04-22 Bulan baru. 8.656800320099476
+2012-05-21 Bulan baru. 3.1724811430353377
+2012-06-20 Bulan baru. 7.839546841568949
+2012-07-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3489918162639312
+2012-08-18 Bulan baru. 6.759345594145771
+2012-09-16 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.7233462670997686
+2012-10-16 Bulan baru. 10.39139943057851
+2012-11-14 Bulan baru. 5.712673745358078
+2012-12-14 Bulan baru. 13.398870887229691
+2013-01-12 Bulan baru. 5.486504837598535
+2013-02-11 Bulan baru. 9.79799259548973
+2013-03-12 Bulan baru. 3.3378223070376496
+2013-04-11 Bulan baru. 8.486401614460197
+2013-05-10 Bulan baru. 3.1207900579534376
+2013-06-09 Bulan baru. 7.3555596369834175
+2013-07-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.3133002436189381
+2013-08-07 Bulan baru. 3.499772709003884
+2013-09-06 Bulan baru. 8.270085254578365
+2013-10-05 Bulan baru. 2.9469365572546136
+2013-11-04 Bulan baru. 10.420741069479142
+2013-12-03 Bulan baru. 4.439137590175972
+2014-01-02 Bulan baru. 11.009620342921865
+2014-01-31 Bulan baru. 3.8864779561280627
+2014-03-02 Bulan baru. 10.435652226210879
+2014-03-31 Bulan baru. 5.571965445153926
+2014-04-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1594478769377579
+2014-05-29 Bulan baru. 6.842865574203239
+2014-06-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.28182251641624323
+2014-07-27 Bulan baru. 3.3128041778816204
+2014-08-26 Bulan baru. 6.608280165838975
+2014-09-24 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.31184498643890696
+2014-10-24 Bulan baru. 4.836825781485495
+2014-11-23 Bulan baru. 10.283440606783993
+2014-12-22 Bulan baru. 2.960412947373828
+2015-01-21 Bulan baru. 8.853860669163812
+2015-02-19 Bulan baru. 3.071901271421938
+2015-03-21 Bulan baru. 11.396180021639358
+2015-04-19 Bulan baru. 7.445679714213211
+2015-05-18 Bulan baru. 3.067716926781672
+2015-06-17 Bulan baru. 9.485362030574567
+2015-07-16 Bulan baru. 2.758912548462175
+2015-08-15 Bulan baru. 6.793391952724059
+2015-09-13 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.28054468407207317
+2015-10-13 Bulan baru. 3.641943950350884
+2015-11-12 Bulan baru. 6.875503206265216
+2015-12-12 Bulan baru. 10.176214320777957
+2016-01-10 Bulan baru. 2.2050875133871366
+2016-02-09 Bulan baru. 7.887269373299673
+2016-03-09 Bulan baru. 3.133634228687605
+2016-04-08 Bulan baru. 12.117329323453532
+2016-05-07 Bulan baru. 8.334741532808788
+2016-06-05 Bulan baru. 3.762914284514233
+2016-07-05 Bulan baru. 11.184260596035708
+2016-08-03 Bulan baru. 5.115318207155398
+2016-09-02 Bulan baru. 10.461422529949253
+2016-10-01 Bulan baru. 3.8683664288833635
+2016-10-31 Bulan baru. 6.871961753180576
+2016-11-30 Bulan baru. 8.761513096490955
+2016-12-30 Bulan baru. 10.697157971415015
+2017-01-28 Bulan baru. 2.890572555563382
+2017-02-27 Bulan baru. 8.383229899500197
+2017-03-28 Bulan baru. 3.863412834187828
+2017-04-27 Bulan baru. 12.296100987241573
+2017-05-26 Bulan baru. 8.162620765725025
+2017-06-24 Bulan baru. 3.526504788754758
+2017-07-24 Bulan baru. 12.291675024659419
+2017-08-22 Bulan baru. 7.18043358666486
+2017-09-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9836015540772676
+2017-10-20 Bulan baru. 6.793836341906932
+2017-11-19 Bulan baru. 9.406481883397639
+2017-12-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.36928439607886815
+2018-01-17 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9811802520165058
+2018-02-16 Bulan baru. 5.11055841907756
+2018-03-18 Bulan baru. 9.903238126636468
+2018-04-16 Bulan baru. 4.801188842604246
+2018-05-16 Bulan baru. 11.920494370631806
+2018-06-14 Bulan baru. 7.390227115889351
+2018-07-13 Bulan baru. 3.074254058147588
+2018-08-12 Bulan baru. 13.028501318166015
+2018-09-10 Bulan baru. 8.58667562166483
+2018-10-09 Bulan baru. 3.3802443985290496
+2018-11-08 Bulan baru. 8.463844060952658
+2018-12-07 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.3721727390045544
+2019-01-06 Bulan baru. 2.6404064184853113
+2019-02-05 Bulan baru. 5.150665716770568
+2019-03-07 Bulan baru. 8.098893393221722
+2019-04-05 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.7793761231301994
+2019-05-05 Bulan baru. 5.58181841991846
+2019-06-04 Bulan baru. 11.543834197342568
+2019-07-03 Bulan baru. 6.990004924397761
+2019-08-01 Bulan baru. 3.139253980270626
+2019-08-31 Bulan baru. 13.367547639696115
+2019-09-29 Bulan baru. 8.91799699924367
+2019-10-28 Bulan baru. 3.303854709078229
+2019-11-27 Bulan baru. 8.972001597463493
+2019-12-26 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.443019295307489
+2020-01-25 Bulan baru. 5.397297017509757
+2020-02-24 Bulan baru. 8.474759557019949
+2020-03-24 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.6157676927429496
+2020-04-23 Bulan baru. 3.6451716416205278
+2020-05-23 Bulan baru. 6.577748793362294
+2020-06-21 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.628426388902085
+2020-07-21 Bulan baru. 7.818987118393631
+2020-08-19 Bulan baru. 3.9048396390511133
+2020-09-17 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.036212999303682124
+2020-10-17 Bulan baru. 7.961628789019714
+2020-11-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9895544908257374
+2020-12-15 Bulan baru. 8.860349348875303
+2021-01-13 Bulan baru. 2.514782591063083
+2021-02-12 Bulan baru. 7.731372866815577
+2021-03-13 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3036043554556977
+2021-04-12 Bulan baru. 3.5122072818312637
+2021-05-12 Bulan baru. 5.380402971484608
+2021-06-11 Bulan baru. 8.74956965695358
+2021-07-10 Bulan baru. 3.0821723818297224
+2021-08-09 Bulan baru. 9.719327599271656
+2021-09-07 Bulan baru. 4.82316625691916
+2021-10-07 Bulan baru. 11.903629779797454
+2021-11-05 Bulan baru. 6.1943203294924185
+2021-12-04 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.46827574178214293
+2022-01-03 Bulan baru. 8.602886221886155
+2022-02-01 Bulan baru. 3.1425047234287184
+2022-03-03 Bulan baru. 8.643898092757363
+2022-04-01 Bulan baru. 2.0531473939797578
+2022-05-01 Bulan baru. 4.718862864991057
+2022-05-31 Bulan baru. 7.9301629612872135
+2022-06-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9104534297178422
+2022-07-29 Bulan baru. 6.792944575333425
+2022-08-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.0285657643499888
+2022-09-26 Bulan baru. 5.377381039663711
+2022-10-26 Bulan baru. 10.661933832091727
+2022-11-24 Bulan baru. 4.809150708742339
+2022-12-24 Bulan baru. 13.331415938986865
+2023-01-22 Bulan baru. 7.985060606741013
+2023-02-20 Bulan baru. 2.5718364418604835
+2023-03-22 Bulan baru. 7.836216270574932
+2023-04-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.6361514318254344
+2023-05-20 Bulan baru. 6.23147143593529
+2023-06-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.940006171902126
+2023-07-18 Bulan baru. 6.207491922419922
+2023-08-16 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.29726319957163827
+2023-09-15 Bulan baru. 3.18222995741503
+2023-10-15 Bulan baru. 5.9362301057601
+2023-11-14 Bulan baru. 10.489268357421658
+2023-12-13 Bulan baru. 4.741495123692644
+2024-01-12 Bulan baru. 12.345914410631961
+2024-02-10 Bulan baru. 6.423208933202088
+2024-03-10 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6812284469411665
+2024-04-09 Bulan baru. 6.095883643174514
+2024-05-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1426820036812524
+2024-06-07 Bulan baru. 8.69120142162778
+2024-07-06 Bulan baru. 4.329234296902123
+2024-08-05 Bulan baru. 9.967552041634745
+2024-09-03 Bulan baru. 2.9067206168651207
+2024-10-03 Bulan baru. 4.955557521148379
+2024-11-02 Bulan baru. 7.468549748875279
+2024-12-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6878946048493715
+2024-12-31 Bulan baru. 5.615872035572741
+2025-01-30 Bulan baru. 10.743078186978506
+2025-02-28 Bulan baru. 4.022435432877664
+2025-03-30 Bulan baru. 9.330323566604951
+2025-04-28 Bulan baru. 4.791878867878726
+2025-05-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.4226434536312318
+2025-06-26 Bulan baru. 11.427371788031412
+2025-07-25 Bulan baru. 6.936992411154879
+2025-08-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.2170504907462847
+2025-09-22 Bulan baru. 4.591619855848719
+2025-10-22 Bulan baru. 7.17281109555115
+2025-11-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.0845106443017006
+2025-12-20 Bulan baru. 3.2379220392466634
+2026-01-19 Bulan baru. 6.229363468802701
+2026-02-18 Bulan baru. 8.722303541786978
+2026-03-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8949495406321981
+2026-04-18 Bulan baru. 7.871087801382319
+2026-05-17 Bulan baru. 4.783251485183381
+2026-06-15 Bulan baru. 2.3206131195649453
+2026-07-15 Bulan baru. 12.895019784990536
+2026-08-13 Bulan baru. 7.6516287007086445
+2026-09-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.632768140308762
+2026-10-11 Bulan baru. 6.126400074612386
+2026-11-10 Bulan baru. 10.319013939528595
+2026-12-09 Bulan baru. 3.167265866717227
+2027-01-08 Bulan baru. 5.3937141564032745
+2027-02-07 Bulan baru. 6.166001084533168
+2027-03-09 Bulan baru. 7.450352417379132
+2027-04-07 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.328415657945923
+2027-05-07 Bulan baru. 8.379149715244774
+2027-06-05 Bulan baru. 5.826537694576875
+2027-07-04 Bulan baru. 2.9041200223386467
+2027-08-03 Bulan baru. 12.440001973995873
+2027-09-01 Bulan baru. 6.957912426808914
+2027-09-30 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.536249883373979
+2027-10-30 Bulan baru. 8.047959818807456
+2027-11-28 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9723874506772008
+2027-12-28 Bulan baru. 5.517808021451424
+2028-01-27 Bulan baru. 6.309742842502442
+2028-02-26 Bulan baru. 6.316879536411436
+2028-03-27 Bulan baru. 8.171509403156122
+2028-04-25 Bulan baru. 2.9505437509100148
+2028-05-25 Bulan baru. 10.50296971689666
+2028-06-23 Bulan baru. 7.055636639019023
+2028-07-22 Bulan baru. 2.7304549921722323
+2028-08-21 Bulan baru. 11.035034623049754
+2028-09-19 Bulan baru. 6.1096089083116105
+2028-10-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.590137941491089
+2028-11-17 Bulan baru. 9.69832818266852
+2028-12-16 Bulan baru. 3.1543559554122984
+2029-01-15 Bulan baru. 6.077139469657944
+2029-02-14 Bulan baru. 6.747071317320476
+2029-03-16 Bulan baru. 7.9093599126227145
+2029-04-14 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.7021593404595752
+2029-05-14 Bulan baru. 6.543780981959461
+2029-06-12 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.6698328021699504
+2029-07-12 Bulan baru. 8.00643056110662
+2029-08-10 Bulan baru. 2.428545262933017
+2029-09-09 Bulan baru. 10.061040255898991
+2029-10-08 Bulan baru. 5.797485911829144
+2029-11-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.572146689608805
+2029-12-06 Bulan baru. 9.790767109121525
+2030-01-04 Bulan baru. 2.4211825324511786
+2030-02-03 Bulan baru. 5.605549058415947
+2030-03-05 Bulan baru. 8.006769509244181
+2030-04-03 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.702441192484543
+2030-05-03 Bulan baru. 6.009483030834603
+2030-06-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.525484339052926
+2030-07-01 Bulan baru. 4.638776335651979
+2030-07-31 Bulan baru. 9.061840783163671
+2030-08-29 Bulan baru. 2.928255776431278
+2030-09-28 Bulan baru. 10.15432271071449
+2030-10-27 Bulan baru. 5.8421796815497995
+2030-11-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.9035336020646111
+2030-12-25 Bulan baru. 7.995196607469278
+2031-01-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6716686367024126
+2031-02-22 Bulan baru. 5.4405086361805255
+2031-03-24 Bulan baru. 10.532958516221148
+2031-04-22 Bulan baru. 5.438230768092334
+2031-05-21 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.33348998932073926
+2031-06-20 Bulan baru. 4.345786406581949
+2031-07-20 Bulan baru. 7.522723394277059
+2031-08-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.41776214396055217
+2031-09-17 Bulan baru. 4.716113713850136
+2031-10-17 Bulan baru. 11.189909162479289
+2031-11-15 Bulan baru. 5.831874633639576
+2031-12-15 Bulan baru. 12.848322635408955
+2032-01-13 Bulan baru. 5.460442543273143
+2032-02-12 Bulan baru. 11.538990739447398
+2032-03-12 Bulan baru. 6.052952489146539
+2032-04-10 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8280531737974297
+2032-05-10 Bulan baru. 9.0899768936758
+2032-06-08 Bulan baru. 3.522479672899518
+2032-07-08 Bulan baru. 7.649846021335277
+2032-08-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.36556914669636353
+2032-09-05 Bulan baru. 3.5154091464481083
+2032-10-05 Bulan baru. 7.619292877630617
+2032-11-03 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1914541433883337
+2032-12-03 Bulan baru. 5.650981769227431
+2033-01-02 Bulan baru. 10.62998903734368
+2033-01-31 Bulan baru. 3.641082492741819
+2033-03-02 Bulan baru. 11.047388727710974
+2033-03-31 Bulan baru. 7.015222836587013
+2033-04-29 Bulan baru. 3.37051372683934
+2033-05-29 Bulan baru. 11.596315663377483
+2033-06-27 Bulan baru. 5.72302916591343
+2033-07-27 Bulan baru. 10.58163300556744
+2033-08-25 Bulan baru. 3.6176976325710637
+2033-09-24 Bulan baru. 7.42431061362125
+2033-10-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.541491847868151
+2033-11-22 Bulan baru. 3.0696528585245413
+2033-12-22 Bulan baru. 5.627295953846373
+2034-01-21 Bulan baru. 9.404377331359637
+2034-02-19 Bulan baru. 3.2558606773279974
+2034-03-21 Bulan baru. 11.263279054543329
+2034-04-19 Bulan baru. 7.759395425432756
+2034-05-18 Bulan baru. 3.976120773889604
+2034-06-17 Bulan baru. 12.732232471407565
+2034-07-16 Bulan baru. 7.094951207881489
+2034-08-14 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.5059478558430217
+2034-09-13 Bulan baru. 7.093340563897841
+2034-10-12 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.7224508797378809
+2034-11-11 Bulan baru. 3.3837668551500606
+2034-12-11 Bulan baru. 4.8407766190335115
+2035-01-10 Bulan baru. 6.441877120864141
+2035-02-09 Bulan baru. 9.891935017333779
+2035-03-10 Bulan baru. 4.3173561710486865
+2035-04-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.04620033336074173
+2035-05-08 Bulan baru. 8.018696727082277
+2035-06-06 Bulan baru. 3.681665342355787
+2035-07-06 Bulan baru. 12.880531246213692
+2035-08-04 Bulan baru. 8.003581518449089
+2035-09-02 Bulan baru. 3.259440336783307
+2035-10-02 Bulan baru. 9.96040424866835
+2035-10-31 Bulan baru. 3.113260414723758
+2035-11-30 Bulan baru. 5.5985562253663455
+2035-12-30 Bulan baru. 6.853340096182243
+2036-01-29 Bulan baru. 8.605131646575789
+2036-02-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.7344930291034875
+2036-03-28 Bulan baru. 6.336278127427856
+2036-04-26 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1898727411520693
+2036-05-26 Bulan baru. 7.8642473669285735
+2036-06-24 Bulan baru. 3.0597629580498067
+2036-07-24 Bulan baru. 12.671392561375875
+2036-08-22 Bulan baru. 8.602518245444621
+2036-09-20 Bulan baru. 4.324126169176616
+2036-10-20 Bulan baru. 11.567907199072199
+2036-11-18 Bulan baru. 4.287287117001449
+2036-12-18 Bulan baru. 7.336460720516832
+2037-01-17 Bulan baru. 9.494337752917582
+2037-02-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.95537558388887
+2037-03-17 Bulan baru. 5.005352588405373
+2037-04-16 Bulan baru. 8.506696667805178
+2037-05-15 Bulan baru. 2.2798842746574683
+2037-06-14 Bulan baru. 7.844316021156895
+2037-07-13 Bulan baru. 2.998059455974935
+2037-08-12 Bulan baru. 12.658821598208506
+2037-09-10 Bulan baru. 8.855705674013356
+2037-10-09 Bulan baru. 4.3440015927744655
+2037-11-08 Bulan baru. 11.686521117971902
+2037-12-07 Bulan baru. 4.414496402084761
+2038-01-06 Bulan baru. 8.983130536942346
+2038-02-04 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.891291120558022
+2038-03-06 Bulan baru. 5.354448252638645
+2038-04-05 Bulan baru. 7.93574664093368
+2038-05-04 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.9238856448004789
+2038-06-03 Bulan baru. 3.628905119225372
+2038-07-03 Bulan baru. 8.903688606706185
+2038-08-01 Bulan baru. 4.160938008866732
+2038-08-30 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.18437359284619628
+2038-09-29 Bulan baru. 8.537371047367605
+2038-10-28 Bulan baru. 3.230124951422296
+2038-11-27 Bulan baru. 10.639253335179127
+2038-12-26 Bulan baru. 4.096755575009977
+2039-01-25 Bulan baru. 10.432370320314698
+2039-02-23 Bulan baru. 4.132153884157099
+2039-03-25 Bulan baru. 7.766244397622963
+2039-04-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8483041054666856
+2039-05-23 Bulan baru. 2.8123165169218614
+2039-06-22 Bulan baru. 6.11648818946626
+2039-07-21 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.40070369314764787
+2039-08-20 Bulan baru. 6.325130404928785
+2039-09-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.2179685108594138
+2039-10-18 Bulan baru. 7.572291784630973
+2039-11-16 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.5465105350545973
+2039-12-16 Bulan baru. 9.29373680454225
+2040-01-14 Bulan baru. 3.791770126210151
+2040-02-13 Bulan baru. 11.043392213272883
+2040-03-13 Bulan baru. 4.986028275696177
+2040-04-12 Bulan baru. 8.798101566100948
+2040-05-11 Bulan baru. 2.0285377955134587
+2040-06-10 Bulan baru. 5.492908566832224
+2040-07-10 Bulan baru. 10.027096777045077
+2040-08-08 Bulan baru. 4.0805236304474946
+2040-09-07 Bulan baru. 8.538025891754279
+2040-10-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9474655844997861
+2040-11-05 Bulan baru. 6.586575105317214
+2040-12-04 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.4846586441974529
+2041-01-03 Bulan baru. 8.386022593097078
+2041-02-01 Bulan baru. 3.334644774969723
+2041-03-03 Bulan baru. 10.187383387618183
+2041-04-01 Bulan baru. 4.179750484275002
+2041-05-01 Bulan baru. 9.062937028525454
+2041-05-30 Bulan baru. 3.446558064850253
+2041-06-29 Bulan baru. 9.25771694818066
+2041-07-28 Bulan baru. 3.6184835312124357
+2041-08-27 Bulan baru. 7.564718812388746
+2041-09-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.4431815467303183
+2041-10-25 Bulan baru. 2.6834327682748436
+2041-11-24 Bulan baru. 6.706242154009565
+2041-12-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.7612812522212177
+2042-01-22 Bulan baru. 7.706481949932839
+2042-02-20 Bulan baru. 2.164390684991394
+2042-03-22 Bulan baru. 7.969876242442477
+2042-04-20 Bulan baru. 2.4626797736402795
+2042-05-20 Bulan baru. 9.634320772409245
+2042-06-18 Bulan baru. 5.614847934084065
+2042-07-17 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.4212034576551276
+2042-08-16 Bulan baru. 7.028016634676051
+2042-09-14 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.25836473864001314
+2042-10-14 Bulan baru. 2.1016585991162042
+2042-11-13 Bulan baru. 4.373298835445493
+2042-12-13 Bulan baru. 8.382980597595493
+2043-01-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.924588292761726
+2043-02-10 Bulan baru. 6.578719107111255
+2043-03-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.3322995086927511
+2043-04-10 Bulan baru. 5.513525492841841
+2043-05-09 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1681925467877556
+2043-06-08 Bulan baru. 10.999188936511997
+2043-07-07 Bulan baru. 7.852723130251507
+2043-08-05 Bulan baru. 3.488062563115347
+2043-09-04 Bulan baru. 8.822284704630945
+2043-10-03 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.6024283332939582
+2043-11-02 Bulan baru. 4.233954438641224
+2043-12-02 Bulan baru. 7.373120053339464
+2043-12-31 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.2649716660015096
+2044-01-30 Bulan baru. 2.8024056989927937
+2044-02-29 Bulan baru. 5.085682870120455
+2044-03-30 Bulan baru. 8.853384263469206
+2044-04-28 Bulan baru. 4.2825781284555635
+2044-05-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1300769962897406
+2044-06-26 Bulan baru. 12.3976616313311
+2044-07-25 Bulan baru. 8.802518137172992
+2044-08-23 Bulan baru. 3.7669966032037716
+2044-09-22 Bulan baru. 9.410521086518042
+2044-10-21 Bulan baru. 2.804843649639657
+2044-11-20 Bulan baru. 7.167408415917688
+2044-12-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.22529280259636014
+2045-01-18 Bulan baru. 2.248371702817836
+2045-02-17 Bulan baru. 2.986293814799392
+2045-03-19 Bulan baru. 4.286622027331021
+2045-04-18 Bulan baru. 8.587822239671741
+2045-05-17 Bulan baru. 5.0003896021997285
+2045-06-15 Bulan baru. 2.1244018483918032
+2045-07-15 Bulan baru. 12.636615799443222
+2045-08-13 Bulan baru. 8.028825897621374
+2045-09-11 Bulan baru. 2.790432590821212
+2045-10-11 Bulan baru. 9.854664382580433
+2045-11-09 Bulan baru. 4.304835580526447
+2045-12-09 Bulan baru. 9.942538181346947
+2046-01-07 Bulan baru. 2.105815836443201
+2046-02-06 Bulan baru. 3.0668740387494133
+2046-03-08 Bulan baru. 3.353376568768422
+2046-04-07 Bulan baru. 5.369282569742218
+2046-05-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.2755676106012657
+2046-06-05 Bulan baru. 7.24730284618636
+2046-07-04 Bulan baru. 3.317388302031742
+2046-08-03 Bulan baru. 11.674944801102415
+2046-09-01 Bulan baru. 6.552817749118182
+2046-09-30 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.7914999223503443
+2046-10-30 Bulan baru. 10.549787248562358
+2046-11-28 Bulan baru. 5.406821716307309
+2046-12-28 Bulan baru. 10.940465531349357
+2047-01-26 Bulan baru. 2.321848530031067
+2047-02-25 Bulan baru. 3.469141658454004
+2047-03-27 Bulan baru. 5.1003404560792545
+2047-04-26 Bulan baru. 8.771241847189959
+2047-05-25 Bulan baru. 3.8439634436394567
+2047-06-24 Bulan baru. 9.971464886255504
+2047-07-23 Bulan baru. 4.293115402797566
+2047-08-22 Bulan baru. 10.703982184169481
+2047-09-20 Bulan baru. 5.7047925608295555
+2047-10-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.4145402879546842
+2047-11-18 Bulan baru. 10.76759941987242
+2047-12-17 Bulan baru. 4.906879616707503
+2048-01-16 Bulan baru. 9.805836213977818
+2048-02-14 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.6673282571786794
+2048-03-15 Bulan baru. 4.68742606556253
+2048-04-14 Bulan baru. 8.676488340381972
+2048-05-13 Bulan baru. 3.4080424146772645
+2048-06-12 Bulan baru. 8.17946486599187
+2048-07-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.605570540477271
+2048-08-10 Bulan baru. 5.47800722849742
+2048-09-09 Bulan baru. 10.870059941385094
+2048-10-08 Bulan baru. 6.013210179687302
+2048-11-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.4320634584354124
+2048-12-06 Bulan baru. 9.65815642506522
+2049-01-04 Bulan baru. 2.781231899122411
+2049-02-03 Bulan baru. 7.903251162183804
+2049-03-04 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.404836937021655
+2049-04-03 Bulan baru. 7.122873448095234
+2049-05-02 Bulan baru. 2.4245476812778683
+2049-06-01 Bulan baru. 7.959228831300108
+2049-06-30 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.4140140432234778
+2049-07-30 Bulan baru. 4.338116104144049
+2049-08-29 Bulan baru. 7.572670860129907
+2049-09-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3824602768054137
+2049-10-27 Bulan baru. 7.208518470758214
+2049-11-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3901625957550476
+2049-12-25 Bulan baru. 7.4671043100921795
+2050-01-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.4460902735018087
+2050-02-22 Bulan baru. 6.627792735637168
+2050-03-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.905671656968614
+2050-04-22 Bulan baru. 10.002505534712173
+2050-05-21 Bulan baru. 5.644597249900782
+2050-06-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.2831436510925339
+2050-07-19 Bulan baru. 4.341498328443664
+2050-08-18 Bulan baru. 7.454117559159089
+2050-09-16 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6194748390254307
+2050-10-16 Bulan baru. 4.316780300724291
+2050-11-15 Bulan baru. 8.726351282643844
+2050-12-14 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.221128220402475
+2051-01-13 Bulan baru. 5.4329488974298155
+2051-02-12 Bulan baru. 11.242064486981338
+2051-03-13 Bulan baru. 6.361370961777932
+2051-04-11 Bulan baru. 2.74608652041799
+2051-05-11 Bulan baru. 12.189714814503446
+2051-06-09 Bulan baru. 7.636867808138649
+2051-07-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9294641940554529
+2051-08-07 Bulan baru. 7.039366274642459
+2051-09-05 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.5956439354853633
+2051-10-05 Bulan baru. 4.331335433845541
+2051-11-04 Bulan baru. 7.565399269984806
+2051-12-04 Bulan baru. 10.122129467835386
+2052-01-02 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3458922977629306
+2052-02-01 Bulan baru. 4.731039811620681
+2052-03-02 Bulan baru. 10.848419340773626
+2052-03-31 Bulan baru. 6.869306944027565
+2052-04-29 Bulan baru. 3.4188445722930165
+2052-05-29 Bulan baru. 13.126445377090032
+2052-06-27 Bulan baru. 8.343491858909193
+2052-07-26 Bulan baru. 2.9749907054967037
+2052-08-25 Bulan baru. 9.670005095727861
+2052-09-23 Bulan baru. 3.690278637785968
+2052-10-23 Bulan baru. 7.913353011966221
+2052-11-22 Bulan baru. 10.34357529978388
+2052-12-21 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.0458595898849934
+2053-01-20 Bulan baru. 2.45112095913054
+2053-02-19 Bulan baru. 5.8374916104582475
+2053-03-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6408176327169173
+2053-04-19 Bulan baru. 7.808662433689544
+2053-05-18 Bulan baru. 3.7148493895513632
+2053-06-17 Bulan baru. 12.959693138693883
+2053-07-16 Bulan baru. 8.294636369549895
+2053-08-14 Bulan baru. 3.6995510464710537
+2053-09-13 Bulan baru. 11.8801988158498
+2053-10-12 Bulan baru. 6.127074555792922
+2053-11-11 Bulan baru. 10.507411901178092
+2053-12-10 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.727938715542941
+2054-01-09 Bulan baru. 3.031421514975754
+2054-02-08 Bulan baru. 4.9747349847904205
+2054-03-10 Bulan baru. 8.456515267973257
+2054-04-08 Bulan baru. 2.9263559166249626
+2054-05-08 Bulan baru. 8.830890742985133
+2054-06-06 Bulan baru. 3.745520780906029
+2054-07-06 Bulan baru. 12.336669749590378
+2054-08-04 Bulan baru. 8.09933308664954
+2054-09-02 Bulan baru. 4.165064723785876
+2054-10-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.1657861401545661
+2054-10-31 Bulan baru. 7.22277649065057
+2054-11-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.11619787288295037
+2054-12-29 Bulan baru. 3.2228941289688033
+2055-01-28 Bulan baru. 5.779965195947648
+2055-02-27 Bulan baru. 8.498792431388207
+2055-03-28 Bulan baru. 2.050360890241813
+2055-04-27 Bulan baru. 5.39742849865128
+2055-05-27 Bulan baru. 9.862479826538195
+2055-06-25 Bulan baru. 4.085808916204598
+2055-07-25 Bulan baru. 12.178921408067568
+2055-08-23 Bulan baru. 8.240583106232236
+2055-09-21 Bulan baru. 4.3377190993985435
+2055-10-21 Bulan baru. 13.173133135161503
+2055-11-19 Bulan baru. 6.872351927736911
+2055-12-19 Bulan baru. 12.460788800961092
+2056-01-17 Bulan baru. 4.759893518882484
+2056-02-16 Bulan baru. 8.824390110442595
+2056-03-16 Bulan baru. 2.3294138183104782
+2056-04-15 Bulan baru. 5.101522505692486
+2056-05-15 Bulan baru. 7.6506946723396485
+2056-06-13 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.7364083179459037
+2056-07-13 Bulan baru. 5.558085220100035
+2056-08-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.7263619634504939
+2056-09-10 Bulan baru. 8.735093071007785
+2056-10-09 Bulan baru. 4.035137023412908
+2056-11-08 Bulan baru. 11.95013397653498
+2056-12-07 Bulan baru. 5.5563251657282935
+2057-01-06 Bulan baru. 12.569842162570101
+2057-02-04 Bulan baru. 6.154895196942763
+2057-03-05 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.712284089797497
+2057-04-04 Bulan baru. 4.703910727124302
+2057-05-04 Bulan baru. 7.395273771912327
+2057-06-02 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.27612573844207444
+2057-07-02 Bulan baru. 3.4267569195596272
+2057-08-01 Bulan baru. 8.423648397687263
+2057-08-30 Bulan baru. 3.030353657587708
+2057-09-29 Bulan baru. 9.16408188484926
+2057-10-28 Bulan baru. 3.2093423933253074
+2057-11-27 Bulan baru. 10.156347008029746
+2057-12-26 Bulan baru. 4.231135704948134
+2058-01-25 Bulan baru. 12.379676035699223
+2058-02-23 Bulan baru. 6.771380387463295
+2058-03-24 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.427202391458789
+2058-04-23 Bulan baru. 5.7208947317978085
+2058-05-23 Bulan baru. 9.398796213034107
+2058-06-21 Bulan baru. 2.9331688168786165
+2058-07-21 Bulan baru. 7.406878263312142
+2058-08-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.434724244003947
+2058-09-18 Bulan baru. 5.375613301329153
+2058-10-18 Bulan baru. 9.38154144764342
+2058-11-16 Bulan baru. 2.498795252650251
+2058-12-16 Bulan baru. 8.966948111251346
+2059-01-14 Bulan baru. 3.600508607751136
+2059-02-13 Bulan baru. 11.546404056017776
+2059-03-14 Bulan baru. 6.02048262360605
+2059-04-12 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6194062169686134
+2059-05-12 Bulan baru. 5.916859689274007
+2059-06-10 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6017767516689273
+2059-07-10 Bulan baru. 6.542370121009036
+2059-08-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.0568907722813512
+2059-09-07 Bulan baru. 4.769666665811093
+2059-10-07 Bulan baru. 7.230543269510496
+2059-11-06 Bulan baru. 10.017768446186162
+2059-12-05 Bulan baru. 2.9482052648929393
+2060-01-04 Bulan baru. 8.943366029368306
+2060-02-02 Bulan baru. 3.37301677772673
+2060-03-03 Bulan baru. 9.70974911273439
+2060-04-01 Bulan baru. 4.017958243876735
+2060-05-01 Bulan baru. 10.607177059289558
+2060-05-30 Bulan baru. 6.308083106534134
+2060-06-28 Bulan baru. 2.4077928003570586
+2060-07-28 Bulan baru. 10.043946853727443
+2060-08-26 Bulan baru. 4.057738119376406
+2060-09-25 Bulan baru. 7.085913586949122
+2060-10-25 Bulan baru. 9.068254330794291
+2060-11-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3197936113358677
+2060-12-23 Bulan baru. 4.880978258714429
+2061-01-22 Bulan baru. 9.374617343372341
+2061-02-20 Bulan baru. 2.782425047793044
+2061-03-22 Bulan baru. 7.254366969335423
+2061-04-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8417795061515836
+2061-05-20 Bulan baru. 10.164293079355385
+2061-06-18 Bulan baru. 7.3503584479304696
+2061-07-17 Bulan baru. 4.183390975102607
+2061-08-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.18572398261008422
+2061-09-14 Bulan baru. 5.49835009316659
+2061-10-14 Bulan baru. 8.76376535136976
+2061-11-12 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.2790527068756377
+2061-12-12 Bulan baru. 4.287712723164104
+2062-01-11 Bulan baru. 7.222773075555985
+2062-02-10 Bulan baru. 9.317834565707624
+2062-03-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.81099093436397
+2062-04-10 Bulan baru. 5.429841588244293
+2062-05-09 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8768961844667652
+2062-06-08 Bulan baru. 10.801669257225978
+2062-07-07 Bulan baru. 8.359418152506318
+2062-08-05 Bulan baru. 4.714747676016138
+2062-09-03 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.09442069516850818
+2062-10-03 Bulan baru. 5.761555701700408
+2062-11-02 Bulan baru. 10.669229327898924
+2062-12-01 Bulan baru. 3.9215740294044132
+2062-12-31 Bulan baru. 7.320660785419351
+2063-01-30 Bulan baru. 8.596435108215099
+2063-02-28 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.22349967783603927
+2063-03-30 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.4249326342202366
+2063-04-29 Bulan baru. 5.548832875095637
+2063-05-28 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.7479919375026218
+2063-06-27 Bulan baru. 11.84644999738723
+2063-07-26 Bulan baru. 8.354473095547245
+2063-08-24 Bulan baru. 3.744529549702734
+2063-09-23 Bulan baru. 11.313561199665505
+2063-10-22 Bulan baru. 5.859747781868662
+2063-11-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.5839303745022411
+2063-12-20 Bulan baru. 6.227433513475355
+2064-01-19 Bulan baru. 8.829370172121164
+2064-02-17 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.2031721677522879
+2064-03-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.7080949960413243
+2064-04-17 Bulan baru. 2.7578794823502135
+2064-05-17 Bulan baru. 8.026618038972174
+2064-06-15 Bulan baru. 4.078270094908221
+2064-07-15 Bulan baru. 12.386925427729523
+2064-08-13 Bulan baru. 7.399348833525873
+2064-09-11 Bulan baru. 2.2950744019281157
+2064-10-11 Bulan baru. 10.643434264724807
+2064-11-09 Bulan baru. 6.157786928282608
+2064-12-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.145953130685149
+2065-01-07 Bulan baru. 6.678821078926168
+2065-02-06 Bulan baru. 8.684927039101497
+2065-03-07 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.521650788659563
+2065-04-06 Bulan baru. 2.470777176344715
+2065-05-06 Bulan baru. 6.310625644452664
+2065-06-04 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.2772485764394081
+2065-07-04 Bulan baru. 6.770915934599736
+2065-08-02 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.9080734367068334
+2065-09-01 Bulan baru. 6.6168025343758305
+2065-09-30 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.5848370743649416
+2065-10-30 Bulan baru. 10.49304374448537
+2065-11-28 Bulan baru. 5.9604179400451525
+2065-12-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.3035111151148871
+2066-01-26 Bulan baru. 5.197746637606136
+2066-02-25 Bulan baru. 8.207233000062466
+2066-03-26 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.5785713362968272
+2066-04-25 Bulan baru. 6.0009201080495504
+2066-05-24 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8962170820813761
+2066-06-23 Bulan baru. 5.37387501818539
+2066-07-23 Bulan baru. 9.169522984296803
+2066-08-21 Bulan baru. 2.1448919890149516
+2066-09-20 Bulan baru. 7.075543225354961
+2066-10-19 Bulan baru. 2.0427351974769303
+2066-11-18 Bulan baru. 10.307977207603537
+2066-12-17 Bulan baru. 4.550493579308912
+2067-01-16 Bulan baru. 10.606401832818765
+2067-02-14 Bulan baru. 3.219449792636424
+2067-03-16 Bulan baru. 8.619549322139994
+2067-04-14 Bulan baru. 3.764595364823697
+2067-05-14 Bulan baru. 10.43446804216353
+2067-06-12 Bulan baru. 5.0039250788688445
+2067-07-12 Bulan baru. 8.917299466174684
+2067-08-10 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3546007889546685
+2067-09-09 Bulan baru. 4.363456105964715
+2067-10-09 Bulan baru. 9.02106626136612
+2067-11-07 Bulan baru. 3.3273441565206494
+2067-12-07 Bulan baru. 9.557820092384413
+2068-01-05 Bulan baru. 2.3831134058951786
+2068-02-04 Bulan baru. 7.840824086943737
+2068-03-04 Bulan baru. 2.0577479532725693
+2068-04-03 Bulan baru. 9.989918349845526
+2068-05-02 Bulan baru. 6.326986081948907
+2068-05-31 Bulan baru. 2.125659883859551
+2068-06-30 Bulan baru. 8.131837956909525
+2068-07-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1586381793559966
+2068-08-28 Bulan baru. 4.334482016618791
+2068-09-27 Bulan baru. 7.758164283834865
+2068-10-26 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1485871291055323
+2068-11-25 Bulan baru. 4.790164063510235
+2068-12-25 Bulan baru. 8.476228047691496
+2069-01-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.7670287496860589
+2069-02-22 Bulan baru. 6.351426633233249
+2069-03-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9725863799367769
+2069-04-22 Bulan baru. 11.49874384976323
+2069-05-21 Bulan baru. 8.107638596680248
+2069-06-19 Bulan baru. 3.5507762928571425
+2069-07-19 Bulan baru. 10.154569451298256
+2069-08-17 Bulan baru. 3.527062089502347
+2069-09-16 Bulan baru. 7.930897206622987
+2069-10-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.2895236003166448
+2069-11-14 Bulan baru. 4.126470312994021
+2069-12-14 Bulan baru. 6.0570629823664035
+2070-01-13 Bulan baru. 7.971544516147247
+2070-02-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6099565968910785
+2070-03-13 Bulan baru. 6.485240284357118
+2070-04-11 Bulan baru. 2.6686268391450083
+2070-05-11 Bulan baru. 12.434430247180453
+2070-06-09 Bulan baru. 8.638382715002596
+2070-07-08 Bulan baru. 3.8469512245145046
+2070-08-07 Bulan baru. 11.62201254258228
+2070-09-05 Bulan baru. 5.896825890664779
+2070-10-04 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.3670550063255274
+2070-11-03 Bulan baru. 4.426901306277934
+2070-12-03 Bulan baru. 6.56728793176163
+2071-01-02 Bulan baru. 7.405066555634802
+2071-02-01 Bulan baru. 8.916100767975351
+2071-03-02 Bulan baru. 2.153744127622671
+2071-04-01 Bulan baru. 7.9784677666446795
+2071-04-30 Bulan baru. 3.8106628563411675
+2071-05-30 Bulan baru. 12.66274212679208
+2071-06-28 Bulan baru. 8.28901597763664
+2071-07-27 Bulan baru. 3.677989419921863
+2071-08-26 Bulan baru. 12.758844595961142
+2071-09-24 Bulan baru. 7.793279140131433
+2071-10-23 Bulan baru. 2.183214686343888
+2071-11-22 Bulan baru. 6.494092209521426
+2071-12-22 Bulan baru. 8.429542850940965
+2072-01-21 Bulan baru. 9.481019737809746
+2072-02-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.6475646779284887
+2072-03-20 Bulan baru. 5.150681511583024
+2072-04-19 Bulan baru. 10.237556249713641
+2072-05-18 Bulan baru. 5.082093178824802
+2072-06-17 Bulan baru. 12.512057908418335
+2072-07-16 Bulan baru. 7.806113919355491
+2072-08-14 Bulan baru. 3.590728203746533
+2072-09-13 Bulan baru. 13.413357718459242
+2072-10-12 Bulan baru. 8.673203873164853
+2072-11-10 Bulan baru. 2.684175337903669
+2072-12-10 Bulan baru. 7.408389442666002
+2073-01-09 Bulan baru. 10.235068353308472
+2073-02-07 Bulan baru. 2.2545314662321094
+2073-03-09 Bulan baru. 5.338963786903453
+2073-04-08 Bulan baru. 8.690360454586225
+2073-05-07 Bulan baru. 2.332430627489498
+2073-06-06 Bulan baru. 6.42822357271333
+2073-07-05 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.5087843664497405
+2073-08-04 Bulan baru. 7.9711978840468705
+2073-09-02 Bulan baru. 3.902213858202075
+2073-10-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.02195424903465289
+2073-10-31 Bulan baru. 8.301029426613008
+2073-11-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8978803321163589
+2073-12-29 Bulan baru. 7.637401416667554
+2074-01-27 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.7568244470660931
+2074-02-26 Bulan baru. 5.307183770469133
+2074-03-28 Bulan baru. 8.94583258143232
+2074-04-26 Bulan baru. 2.2784817380000932
+2074-05-26 Bulan baru. 4.782795996943108
+2074-06-25 Bulan baru. 8.351380727400532
+2074-07-24 Bulan baru. 2.2884177422517253
+2074-08-23 Bulan baru. 9.172929541145336
+2074-09-21 Bulan baru. 4.586167657343774
+2074-10-21 Bulan baru. 12.714852201290878
+2074-11-19 Bulan baru. 6.8623606416416845
+2074-12-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.5322318722617891
+2075-01-17 Bulan baru. 7.643119992550129
+2075-02-15 Bulan baru. 2.0367231369034577
+2075-03-17 Bulan baru. 7.6726810512778485
+2075-04-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.6431206793780577
+2075-05-15 Bulan baru. 4.5984807808699735
+2075-06-14 Bulan baru. 7.495809033852711
+2075-07-13 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8042212641507732
+2075-08-12 Bulan baru. 5.392344703474691
+2075-09-11 Bulan baru. 11.022243386281653
+2075-10-10 Bulan baru. 5.230351399382732
+2075-11-09 Bulan baru. 11.469936673165147
+2075-12-08 Bulan baru. 5.138349178149783
+2076-01-07 Bulan baru. 13.089983265979685
+2076-02-05 Bulan baru. 7.529820814598326
+2076-03-05 Bulan baru. 2.6253114869762206
+2076-04-04 Bulan baru. 8.617013614410634
+2076-05-03 Bulan baru. 2.5361922459032415
+2076-06-02 Bulan baru. 6.635217578151772
+2076-07-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.39357641742918914
+2076-07-31 Bulan baru. 4.743939050755031
+2076-08-30 Bulan baru. 8.97394137118777
+2076-09-28 Bulan baru. 2.270765331785296
+2076-10-28 Bulan baru. 5.676740973908404
+2076-11-27 Bulan baru. 10.533556157773523
+2076-12-26 Bulan baru. 4.278870616396728
+2077-01-25 Bulan baru. 12.137487773015113
+2077-02-23 Bulan baru. 6.955820254488781
+2077-03-24 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9842783831353312
+2077-04-23 Bulan baru. 8.118745338044299
+2077-05-22 Bulan baru. 2.6233853736302835
+2077-06-21 Bulan baru. 9.023184473782463
+2077-07-20 Bulan baru. 3.7215613310713485
+2077-08-19 Bulan baru. 8.784559008524148
+2077-09-17 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9927830358690273
+2077-10-17 Bulan baru. 4.1575587727748795
+2077-11-16 Bulan baru. 6.565003660371091
+2077-12-16 Bulan baru. 10.911349288691333
+2078-01-14 Bulan baru. 4.715124190194134
+2078-02-13 Bulan baru. 11.148256107599748
+2078-03-14 Bulan baru. 5.530532236988294
+2078-04-12 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.27356052216106697
+2078-05-12 Bulan baru. 7.005451824092518
+2078-06-10 Bulan baru. 2.8092873280249706
+2078-07-10 Bulan baru. 11.710634247062908
+2078-08-08 Bulan baru. 6.824184579936492
+2078-09-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1187988598662053
+2078-10-06 Bulan baru. 4.106675997892565
+2078-11-05 Bulan baru. 6.048065488795411
+2078-12-05 Bulan baru. 8.693422940655319
+2079-01-03 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.556985163755307
+2079-02-02 Bulan baru. 5.608369926543152
+2079-03-04 Bulan baru. 9.702334942390365
+2079-04-02 Bulan baru. 3.546956509563825
+2079-05-02 Bulan baru. 9.995803411589119
+2079-05-31 Bulan baru. 6.4687850779861416
+2079-06-29 Bulan baru. 3.5598822156812093
+2079-07-28 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.589552740767054
+2079-08-27 Bulan baru. 8.425596709148003
+2079-09-25 Bulan baru. 2.15683180001433
+2079-10-25 Bulan baru. 5.598545980082591
+2079-11-24 Bulan baru. 8.669021236071881
+2079-12-23 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.2887974658305101
+2080-01-22 Bulan baru. 4.005207561356832
+2080-02-21 Bulan baru. 5.969959714315629
+2080-03-22 Bulan baru. 8.216390576192131
+2080-04-20 Bulan baru. 2.1717312173584298
+2080-05-20 Bulan baru. 9.55871740848662
+2080-06-18 Bulan baru. 7.006361946799419
+2080-07-17 Bulan baru. 4.309674769553386
+2080-08-15 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8078776031516867
+2080-09-14 Bulan baru. 8.21953587830491
+2080-10-13 Bulan baru. 2.0796372154585083
+2080-11-12 Bulan baru. 7.236910713364219
+2080-12-11 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.7251238315808743
+2081-01-10 Bulan baru. 4.098606129388221
+2081-02-09 Bulan baru. 5.455772401428162
+2081-03-11 Bulan baru. 5.942161271280591
+2081-04-10 Bulan baru. 7.918493583090284
+2081-05-09 Bulan baru. 2.6324208601285344
+2081-06-08 Bulan baru. 10.86454370985668
+2081-07-07 Bulan baru. 7.96937251599119
+2081-08-05 Bulan baru. 4.193317801287542
+2081-09-04 Bulan baru. 12.534320910017918
+2081-10-03 Bulan baru. 7.0943416134980675
+2081-11-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8170177225328406
+2081-12-01 Bulan baru. 9.016618100669163
+2081-12-30 Bulan baru. 2.5535970620122583
+2082-01-29 Bulan baru. 5.373461364853783
+2082-02-28 Bulan baru. 5.898344327094632
+2082-03-30 Bulan baru. 6.671324946312104
+2082-04-28 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.37322141316598595
+2082-05-28 Bulan baru. 5.324243875468477
+2082-06-26 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.0760585242481662
+2082-07-26 Bulan baru. 8.510325205801735
+2082-08-24 Bulan baru. 3.331870650949649
+2082-09-23 Bulan baru. 10.878992975045795
+2082-10-22 Bulan baru. 6.23174208218115
+2082-11-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.7479522370280711
+2082-12-20 Bulan baru. 9.733571105012025
+2083-01-18 Bulan baru. 2.5998555853830774
+2083-02-17 Bulan baru. 5.074547954226078
+2083-03-19 Bulan baru. 6.5352607478567215
+2083-04-17 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.07845302690007268
+2083-05-17 Bulan baru. 3.9013959430489686
+2083-06-16 Bulan baru. 9.376839716173526
+2083-07-15 Bulan baru. 3.6814126253564976
+2083-08-14 Bulan baru. 8.729202886622314
+2083-09-12 Bulan baru. 2.776909029708042
+2083-10-12 Bulan baru. 10.15504671076651
+2083-11-10 Bulan baru. 5.950875312001029
+2083-12-09 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.2783315883096749
+2084-01-08 Bulan baru. 8.333200471377308
+2084-02-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.9779294098863234
+2084-03-07 Bulan baru. 4.509488111740051
+2084-04-06 Bulan baru. 8.514442956097593
+2084-05-05 Bulan baru. 3.3603072897852586
+2084-06-04 Bulan baru. 8.742123896984644
+2084-07-03 Bulan baru. 2.629635850494471
+2084-08-02 Bulan baru. 6.0025371553355455
+2084-09-01 Bulan baru. 9.536045449310484
+2084-09-30 Bulan baru. 3.4707354404081388
+2084-10-30 Bulan baru. 10.567871028163555
+2084-11-28 Bulan baru. 5.663177071990449
+2084-12-28 Bulan baru. 13.009712321533017
+2085-01-26 Bulan baru. 5.495200522185579
+2085-02-25 Bulan baru. 10.467020723747707
+2085-03-26 Bulan baru. 4.817495065473953
+2085-04-24 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.5667985525166123
+2085-05-24 Bulan baru. 7.482576396109501
+2085-06-22 Bulan baru. 2.0606721280109714
+2085-07-22 Bulan baru. 5.83074381044512
+2085-08-21 Bulan baru. 8.421845227746385
+2085-09-19 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.362185820749649
+2085-10-19 Bulan baru. 5.599391642879199
+2085-11-18 Bulan baru. 11.510078548690828
+2085-12-17 Bulan baru. 4.867731533706056
+2086-01-16 Bulan baru. 9.945389785325418
+2086-02-14 Bulan baru. 2.967113149506177
+2086-03-16 Bulan baru. 9.842928410039097
+2086-04-14 Bulan baru. 6.01978850563165
+2086-05-13 Bulan baru. 2.6252803242381324
+2086-06-12 Bulan baru. 10.761395046785129
+2086-07-11 Bulan baru. 4.6258382498167245
+2086-08-10 Bulan baru. 8.512896772024236
+2086-09-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.3670949124938738
+2086-10-08 Bulan baru. 4.712668737187522
+2086-11-07 Bulan baru. 8.52696610794077
+2086-12-06 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.035114421660129
+2087-01-05 Bulan baru. 3.8973336880401166
+2087-02-04 Bulan baru. 7.71474818637582
+2087-03-05 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9011088771596487
+2087-04-04 Bulan baru. 10.266599067838088
+2087-05-03 Bulan baru. 7.327788087818236
+2087-06-01 Bulan baru. 3.91383627884846
+2087-07-01 Bulan baru. 12.443697106336838
+2087-07-30 Bulan baru. 6.213423514827236
+2087-08-28 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.22031005953493302
+2087-09-27 Bulan baru. 4.720856853341871
+2087-10-27 Bulan baru. 8.563540917172425
+2087-11-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.775720645652548
+2087-12-25 Bulan baru. 2.1413891691878044
+2088-01-24 Bulan baru. 3.700208452178665
+2088-02-23 Bulan baru. 7.374095916617126
+2088-03-23 Bulan baru. 2.445043157986306
+2088-04-22 Bulan baru. 11.211443895158624
+2088-05-21 Bulan baru. 8.078512962512116
+2088-06-19 Bulan baru. 4.068542197982862
+2088-07-19 Bulan baru. 12.943386915824178
+2088-08-17 Bulan baru. 7.4090058672385934
+2088-09-15 Bulan baru. 2.159184159853157
+2088-10-15 Bulan baru. 7.9813347385487825
+2088-11-13 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.9274494027216272
+2088-12-13 Bulan baru. 2.7630527103162468
+2089-01-12 Bulan baru. 3.4748988675940713
+2089-02-11 Bulan baru. 5.072172755942214
+2089-03-13 Bulan baru. 9.043616984684489
+2089-04-11 Bulan baru. 4.2960434195173764
+2089-05-10 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.0751526714890053
+2089-06-09 Bulan baru. 8.228493671401354
+2089-07-08 Bulan baru. 3.6169492999701265
+2089-08-07 Bulan baru. 12.957373435697026
+2089-09-05 Bulan baru. 8.344896316557271
+2089-10-04 Bulan baru. 3.625484048224853
+2089-11-03 Bulan baru. 10.156341031614224
+2089-12-02 Bulan baru. 2.358243193023362
+2090-01-01 Bulan baru. 4.332371915052088
+2090-01-31 Bulan baru. 5.701441926154852
+2090-03-02 Bulan baru. 8.088596029274315
+2090-03-31 Bulan baru. 2.0465432413826115
+2090-04-30 Bulan baru. 6.860727799543234
+2090-05-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.408548077618487
+2090-06-28 Bulan baru. 8.221660920910425
+2090-07-27 Bulan baru. 3.3472182994580293
+2090-08-26 Bulan baru. 12.90982848888472
+2090-09-24 Bulan baru. 8.821961124419017
+2090-10-23 Bulan baru. 4.0368048702308545
+2090-11-22 Bulan baru. 10.821415334116422
+2090-12-21 Bulan baru. 2.7998968851332915
+2091-01-20 Bulan baru. 6.034619407640638
+2091-02-19 Bulan baru. 8.877318953868144
+2091-03-20 Bulan baru. 2.318347631194624
+2091-04-19 Bulan baru. 5.729632678180342
+2091-05-19 Bulan baru. 9.520128547223466
+2091-06-17 Bulan baru. 2.9736144223789505
+2091-07-17 Bulan baru. 8.782001956453634
+2091-08-15 Bulan baru. 3.880212965111889
+2091-09-14 Bulan baru. 12.994546740254698
+2091-10-13 Bulan baru. 8.691796501859214
+2091-11-11 Bulan baru. 3.275278264808046
+2091-12-11 Bulan baru. 10.196721109987207
+2092-01-09 Bulan baru. 2.82548191999043
+2092-02-08 Bulan baru. 7.982605153734401
+2092-03-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.914185060882184
+2092-04-07 Bulan baru. 5.920973597588457
+2092-05-07 Bulan baru. 9.077767076760797
+2092-06-05 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.8724306203821508
+2092-07-05 Bulan baru. 5.21389405857764
+2092-08-04 Bulan baru. 10.528555605527444
+2092-09-02 Bulan baru. 5.411698471374683
+2092-10-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.6318354003498508
+2092-10-31 Bulan baru. 7.919527502975892
+2092-11-29 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.719602256217556
+2092-12-29 Bulan baru. 8.947814190065262
+2093-01-27 Bulan baru. 2.8493101021269998
+2093-02-26 Bulan baru. 9.655063203144861
+2093-03-27 Bulan baru. 4.1422659792232706
+2093-04-26 Bulan baru. 8.551348175730345
+2093-05-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.7153823732492655
+2093-06-24 Bulan baru. 4.713219421189352
+2093-07-24 Bulan baru. 8.554932317497297
+2093-08-22 Bulan baru. 2.4345872055841085
+2093-09-21 Bulan baru. 7.5031352655111725
+2093-10-20 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.363485477682651
+2093-11-19 Bulan baru. 6.78866887691301
+2093-12-18 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.313893136055405
+2094-01-17 Bulan baru. 7.881011212472669
+2094-02-15 Bulan baru. 2.8910594199851554
+2094-03-17 Bulan baru. 10.364860730558512
+2094-04-15 Bulan baru. 4.977462364703363
+2094-05-15 Bulan baru. 10.084581356647009
+2094-06-13 Bulan baru. 3.6790254742415858
+2094-07-13 Bulan baru. 8.262128084195325
+2094-08-11 Bulan baru. 2.0733946360005486
+2094-09-10 Bulan baru. 6.0306847917919
+2094-10-10 Bulan baru. 9.466731835839772
+2094-11-08 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.9733650215021556
+2094-12-08 Bulan baru. 6.160001617120978
+2095-01-07 Bulan baru. 12.747107769646158
+2095-02-05 Bulan baru. 7.33149944185848
+2095-03-06 Bulan baru. 2.600743936861999
+2095-04-05 Bulan baru. 9.706485136084781
+2095-05-04 Bulan baru. 4.411312253271077
+2095-06-03 Bulan baru. 11.116857727985302
+2095-07-02 Bulan baru. 5.904701098777778
+2095-07-31 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8864819814408768
+2095-08-30 Bulan baru. 5.88717312582029
+2095-09-29 Bulan baru. 9.028208077916991
+2095-10-28 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.0949448510768363
+2095-11-27 Bulan baru. 3.072036381101457
+2095-12-27 Bulan baru. 6.924929016420206
+2096-01-25 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.8592992692873423
+2096-02-24 Bulan baru. 6.8819995699395236
+2096-03-24 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.5919297989311536
+2096-04-23 Bulan baru. 7.983332568881005
+2096-05-22 Bulan baru. 3.263264388944856
+2096-06-21 Bulan baru. 12.31601013489845
+2096-07-20 Bulan baru. 8.244714516906434
+2096-08-18 Bulan baru. 3.5380682990195518
+2096-09-17 Bulan baru. 8.529739164743788
+2096-10-16 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.1025227325175293
+2096-11-15 Bulan baru. 2.935945715663041
+2096-12-15 Bulan baru. 5.388857038129765
+2097-01-14 Bulan baru. 8.864712132207634
+2097-02-12 Bulan baru. 2.1587728543990767
+2097-03-14 Bulan baru. 6.025602277275781
+2097-04-12 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.14340913309278122
+2097-05-12 Bulan baru. 6.346406444193305
+2097-06-10 Bulan baru. 2.6925463750617267
+2097-07-10 Bulan baru. 13.624196266626742
+2097-08-08 Bulan baru. 9.78667838712964
+2097-09-06 Bulan baru. 4.7248533677799625
+2097-10-06 Bulan baru. 9.713626098862006
+2097-11-04 Bulan baru. 2.3182727125571656
+2097-12-04 Bulan baru. 5.482163825494182
+2098-01-03 Bulan baru. 8.516224781697314
+2098-02-01 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.071012081668601
+2098-03-03 Bulan baru. 2.9033879114369885
+2098-04-02 Bulan baru. 5.0769504732666215
+2098-05-02 Bulan baru. 9.840549796660648
+2098-05-31 Bulan baru. 6.088000324211876
+2098-06-29 Bulan baru. 3.199371384354179
+2098-07-28 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.45843077114554204
+2098-08-27 Bulan baru. 9.695061644697972
+2098-09-25 Bulan baru. 4.203050393967955
+2098-10-25 Bulan baru. 10.133642605455051
+2098-11-23 Bulan baru. 3.640659874786926
+2098-12-23 Bulan baru. 8.36395595943613
+2099-01-21 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.0714612733282336
+2099-02-20 Bulan baru. 2.5479980144401586
+2099-03-22 Bulan baru. 3.1873771452848527
+2099-04-21 Bulan baru. 5.2044466262950735
+2099-05-21 Bulan baru. 10.830310801736688
+2099-06-19 Bulan baru. 7.533696093178649
+2099-07-18 Bulan baru. 4.183995019957328
+2099-08-16 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 0.3618188392335098
+2099-09-15 Bulan baru. 8.206047108467827
+2099-10-14 Bulan baru. 2.8626716596907937
+2099-11-13 Bulan baru. 10.608220370685274
+2099-12-12 Bulan baru. 4.988598561258209
+2100-01-11 Bulan baru. 10.12069256678875
+2100-02-09 Bulan baru. 2.1275445891836453
+2100-03-11 Bulan baru. 3.0520632004211117
+2100-04-10 Bulan baru. 4.150654305297666
+2100-05-10 Bulan baru. 7.499669798281048
+2100-06-08 Bulan baru. 2.7001202010776
+2100-07-08 Bulan baru. 9.76670435267565
+2100-08-06 Bulan baru. 4.819148825026736
+2100-09-05 Bulan baru. 11.753828363373927
+2100-10-04 Bulan baru. 6.571345491015427
+2100-11-02 Muhammadiyah bulan baru, pemerintah tergantung rukyat. 1.850273700158113
